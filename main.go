@@ -9,3 +9,7 @@ func main() {
 func hello() string {
 	return "Hello Go"
 }
+
+// comments to commit
+//wewefwef
+//dfsfdsf
